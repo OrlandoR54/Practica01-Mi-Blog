@@ -17,7 +17,7 @@ Se crea el repositorio en github con el nombre de "Practica01-Mi-Blog"
     </article>
  </section>
 3.Manejar listas ordenadas o desordenadas con al menos cinco ítems. 
-      <ul
+      <ul>
         <li><a href="Contenido/inf/Whats.html">&iquest;Que es la fotografía&#63;</a></li>
         <li><a href="Contenido/inf/Historia.html">Historia</a></li>
         <li><a href="Contenido/General/Caracteristicas.html">Características</a></li>
