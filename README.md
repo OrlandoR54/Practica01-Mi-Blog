@@ -17,11 +17,11 @@ Se crea el repositorio en github con el nombre de "Practica01-Mi-Blog"
     </article>
  </section>
 3.Manejar listas ordenadas o desordenadas con al menos cinco ítems. 
-      <ul>
-        <li><a href="Archivos/info/Servidor.html">&iquest;Qu&eacute; es un s&eacute;rvidor&#63;</a></li>
-        <li><a href="Archivos/info/Historia.html">Historia</a></li>
-        <li><a href="Archivos/varios/caracteristicas.html">Caracter&iacute;sticas</a></li>
-        <li><a href="Archivos/varios/tipoServer.html">Tipo de Servidor</a></li>
-        <li><a href="Archivos/varios/mostrarVideo.html">Video Servidor</a></li>
+      <ul
+        <li><a href="Contenido/inf/Whats.html">&iquest;Que es la fotografía&#63;</a></li>
+        <li><a href="Contenido/inf/Historia.html">Historia</a></li>
+        <li><a href="Contenido/General/Caracteristicas.html">Características</a></li>
+        <li><a href="Contenido/General/Type.html">Tipos de Camaras</a></li>
+        <li><a href="Contenido/General/Video.html">Video: como usar una camara</a></li>
       </ul>
  
