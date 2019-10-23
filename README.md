@@ -16,3 +16,12 @@ Se crea el repositorio en github con el nombre de "Practica01-Mi-Blog"
       </aside>
     </article>
  </section>
+3.Manejar listas ordenadas o desordenadas con al menos cinco ítems. 
+      <ul>
+        <li><a href="Archivos/info/Servidor.html">&iquest;Qu&eacute; es un s&eacute;rvidor&#63;</a></li>
+        <li><a href="Archivos/info/Historia.html">Historia</a></li>
+        <li><a href="Archivos/varios/caracteristicas.html">Caracter&iacute;sticas</a></li>
+        <li><a href="Archivos/varios/tipoServer.html">Tipo de Servidor</a></li>
+        <li><a href="Archivos/varios/mostrarVideo.html">Video Servidor</a></li>
+      </ul>
+ 
