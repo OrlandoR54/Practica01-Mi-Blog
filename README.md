@@ -56,3 +56,5 @@ Conclusiones
 La estructura deseada no se visualiza claramente debido a que todas las etiquetas se agregan en la página de forma automática. Para cambiar esto es necesario implementar un estilo con la ayuda de CSS. Sin embargo, los requisitos se pueden cumplir únicamente con HTML aunque la presentación no sea la deseada.
 
 ## 9.	GitHub
+Usuario: OrlandoR54
+https://github.com/OrlandoR54/Practica01-Mi-Blog.git
